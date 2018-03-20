@@ -1,4 +1,4 @@
-connection: "redshift-datablocks"
+connection: "redshift"
 
 # include all the BQ view files
-include: "redshift.explore"
+include: "redshift.explore.lkml"

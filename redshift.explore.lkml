@@ -1,3 +1,4 @@
+connection: "redshift"
 include: "redshift.*.view.lkml"
 
 
